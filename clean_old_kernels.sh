@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Opravený skript na bezpečné odstránenie starých jadier
+# Skript na bezpečné odstránenie starých jadier
 
 set -e
 
